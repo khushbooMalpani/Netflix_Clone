@@ -81,9 +81,7 @@ nav button{
     flex: 1;
     border: 0;
     outline: 0;
-    margin-left: 20px;
-    
-   
+    margin-left: 20px; 
 }
 
 .email-signup button{
@@ -108,8 +106,6 @@ nav button{
     align-items: center;
     flex-wrap: wrap;
     padding: 50px 0;
-
-
 }
 .text-col{
 flex-basis: 50%;
